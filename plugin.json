@@ -5,6 +5,5 @@
         "namespace":"MyFirstTest",
         "author":"zooma01",
         "type":"template",
-        "serviceProvider":null,
         "serviceProvider":"MyFirstTest\\Providers\\MyFirstTestServiceProvider"
     }
