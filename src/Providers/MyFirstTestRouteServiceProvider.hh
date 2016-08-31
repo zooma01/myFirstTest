@@ -12,6 +12,6 @@
         {
             public function map(Router $router):void
             {
-
+	            $router->get('my1test','MyFirstTest\Controllers\ContentController@runMyFirstTest');
             }
         }
