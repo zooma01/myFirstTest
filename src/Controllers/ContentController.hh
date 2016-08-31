@@ -10,10 +10,7 @@
 
         class ContentController extends Controller
         {
-            public function runMyFirstTest(Twig $twig):string
-            {
-                return $twig->render('MyFirstTest::TEMPLATE');
-            }
+           
 
             public function runMyFirstTest(Twig $twig):string
             {
